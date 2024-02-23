@@ -6,6 +6,7 @@ import Scroll from "../components/Scroll"
 import ErrorBoundary from "../components/ErrorBoundary";
 import './App.css'
 
+
 function App() {
 
     const [robots, setRobots] = useState([])
